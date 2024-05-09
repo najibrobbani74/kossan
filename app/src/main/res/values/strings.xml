@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kossan</string>
+    <string name="list_icon">List Icon</string>
+    <string name="add_new_order">Add New Order</string>
+    <string name="list_is_empty">Data not found</string>
+    <string name="start_time_template">Start : %1$s</string>
+    <string name="end_time_template">End : %1$s</string>
+    <string name="room_template">Room : %1$s</string>
+    <string name="price_template">Rp.%1$s</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="add_order_title">Add Order</string>
+    <string name="edit_order_title">Edit Order</string>
+    <string name="empty_form_message">The form cannot be empty</string>
+    <string name="save_text">Save</string>
+    <string name="delete_message">Are you sure?</string>
+    <string name="delete_text">Delete</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="more_text">More</string>
+    <string name="customer_name_text">Customer Name</string>
+    <string name="room_text">Room</string>
+    <string name="end_time_text">End Date</string>
+    <string name="start_time_text">Start Date</string>
+    <string name="total_price_text">Total Price</string>
+    <string name="select_text">Select</string>
+    <string name="calendar_icon">Calendar Icon</string>
+    <string name="grid_icon">Grid Icon</string>
+</resources>
